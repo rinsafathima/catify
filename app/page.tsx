@@ -34,7 +34,7 @@ export default function Home() {
         />
       </svg>
       <span className="text-6xl font-semibold dark:text-white">wsters</span>
-      <span className="text-5xl font-semibold text-orange-500">🙀!!</span>
+      <span className="text-5xl font-semibold text-orange-500"> 🐱!!</span>
     </div>
   </div>
 
@@ -51,7 +51,8 @@ export default function Home() {
             <div className="flex items-center gap-12">
               <h2 className="text-2xl font-bold text-gray-800 lg:text-3xl dark:text-white">Gallery</h2>
               <p className="hidden max-w-screen-sm text-gray-500 dark:text-gray-300 md:block font-mono">
-              Welcome to Catify, your ultimate companion in the world of cats! Dive into a community of whisker enthusiasts, share your kitty’s cutest moments, and explore a world designed with your furry friend in mind. Join Catify today and make every day a meow-velous adventure! 🐾✨
+              Welcome to Catify, your ultimate companion in the world of cats! Dive into a community of whisker enthusiasts, share your kitty’s cutest moments, 
+              and explore a world designed with your furry friend in mind. Join Catify today and make every day a meow-velous adventure! 🐈😻🐈‍⬛
               </p>
             </div>
             <a
@@ -71,7 +72,7 @@ export default function Home() {
               <img
                 src="https://images.pexels.com/photos/954720/pexels-photo-954720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 loading="lazy"
-                alt="Photo by Minh Pham"
+                alt="Cat"
                 className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
               />
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
@@ -87,7 +88,7 @@ export default function Home() {
               <img
                 src="https://images.pexels.com/photos/8523559/pexels-photo-8523559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 loading="lazy"
-                alt="Photo by Magicle"
+                alt="Cat"
                 className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
               />
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
